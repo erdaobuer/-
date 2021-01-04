@@ -1,0 +1,7 @@
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\bin\Debug\线程上的异常处理.exe.config
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\bin\Debug\线程上的异常处理.exe
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\bin\Debug\线程上的异常处理.pdb
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\obj\Debug\线程上的异常处理.csprojAssemblyReference.cache
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\obj\Debug\线程上的异常处理.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\obj\Debug\线程上的异常处理.exe
+E:\VS_WrokSpace\C#\线程\线程\线程上的异常处理\obj\Debug\线程上的异常处理.pdb

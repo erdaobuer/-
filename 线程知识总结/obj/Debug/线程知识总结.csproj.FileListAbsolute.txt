@@ -1,0 +1,7 @@
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\bin\Debug\线程知识总结.exe.config
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\bin\Debug\线程知识总结.exe
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\bin\Debug\线程知识总结.pdb
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\obj\Debug\线程知识总结.csprojAssemblyReference.cache
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\obj\Debug\线程知识总结.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\obj\Debug\线程知识总结.exe
+E:\VS_WrokSpace\C#\线程\线程\线程知识总结\obj\Debug\线程知识总结.pdb

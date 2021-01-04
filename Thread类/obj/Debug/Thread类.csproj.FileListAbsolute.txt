@@ -1,0 +1,7 @@
+D:\VS_WorkSpase\线程\Thread类\bin\Debug\Thread类.exe.config
+D:\VS_WorkSpase\线程\Thread类\bin\Debug\Thread类.exe
+D:\VS_WorkSpase\线程\Thread类\bin\Debug\Thread类.pdb
+D:\VS_WorkSpase\线程\Thread类\obj\Debug\Thread类.csprojAssemblyReference.cache
+D:\VS_WorkSpase\线程\Thread类\obj\Debug\Thread类.csproj.CoreCompileInputs.cache
+D:\VS_WorkSpase\线程\Thread类\obj\Debug\Thread类.exe
+D:\VS_WorkSpase\线程\Thread类\obj\Debug\Thread类.pdb

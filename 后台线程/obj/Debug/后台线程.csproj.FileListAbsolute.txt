@@ -1,0 +1,7 @@
+E:\VS_WrokSpace\C#\线程\线程\后台线程\bin\Debug\后台线程.exe.config
+E:\VS_WrokSpace\C#\线程\线程\后台线程\bin\Debug\后台线程.exe
+E:\VS_WrokSpace\C#\线程\线程\后台线程\bin\Debug\后台线程.pdb
+E:\VS_WrokSpace\C#\线程\线程\后台线程\obj\Debug\后台线程.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\线程\后台线程\obj\Debug\后台线程.exe
+E:\VS_WrokSpace\C#\线程\线程\后台线程\obj\Debug\后台线程.pdb
+E:\VS_WrokSpace\C#\线程\线程\后台线程\obj\Debug\后台线程.csprojAssemblyReference.cache

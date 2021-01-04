@@ -1,0 +1,6 @@
+E:\VS_WrokSpace\C#\线程\线程\线程安全\bin\Debug\线程安全.exe.config
+E:\VS_WrokSpace\C#\线程\线程\线程安全\bin\Debug\线程安全.exe
+E:\VS_WrokSpace\C#\线程\线程\线程安全\bin\Debug\线程安全.pdb
+E:\VS_WrokSpace\C#\线程\线程\线程安全\obj\Debug\线程安全.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\线程\线程安全\obj\Debug\线程安全.exe
+E:\VS_WrokSpace\C#\线程\线程\线程安全\obj\Debug\线程安全.pdb
