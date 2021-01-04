@@ -3,21 +3,18 @@ using System.Threading;
 
 namespace Thread类
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Thread.CurrentThread.Name = "MainThread";
 
-
-
             ThreadDemo();
-
         }
 
-        static void ThreadDemo()
+        private static void ThreadDemo()
         {
-            Console.WriteLine("子线程开始");
+            Console.WriteLine("MyThread Start");
             Thread myThread = new Thread(new ThreadStart(RunFunction));
             myThread.Name = "MyThread";
             for (int i = 0; i < 20; i++)
@@ -29,7 +26,7 @@ namespace Thread类
                 }
                 else
                 {
-                    Console.WriteLine(Thread.CurrentThread.Name+"   i="+i);
+                    Console.WriteLine(Thread.CurrentThread.Name + "   i = " + i);
                 }
             }
 
@@ -43,15 +40,13 @@ namespace Thread类
             //}
         }
 
-        static void RunFunction()
+        private static void RunFunction()
         {
-            for (int i = 0; i < 10; i++)
+            for (int j = 0; j < 10; j++)
             {
-                // Console.OutputEncoding = System.Text.Encoding.UTF8;
-
-                Console.WriteLine(Thread.CurrentThread.Name +"   i="+i);
+                Console.WriteLine(Thread.CurrentThread.Name + "   j = " + j);
             }
-            Console.WriteLine(Thread.CurrentThread.Name+" has finished");
+            Console.WriteLine(Thread.CurrentThread.Name + " has finished");
         }
     }
 }
