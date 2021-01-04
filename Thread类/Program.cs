@@ -8,7 +8,6 @@ namespace Thread类
         private static void Main(string[] args)
         {
             Thread.CurrentThread.Name = "MainThread";
-
             ThreadDemo();
         }
 
@@ -21,8 +20,18 @@ namespace Thread类
             {
                 if (i == 10)//i=10的时候，启动子线程
                 {
-                    myThread.Start();
+                    myThread.Start();//启动子线程
+                    //Console.WriteLine("myThread.IsAlive:   " + myThread.IsAlive);
+                    //Console.WriteLine("myThread.ThreadState:   " + myThread.ThreadState);
+
+                    //myThread.Abort();//终止子线程
                     myThread.Join();//此方法执行后，主线程被阻塞，直到子线程执行完
+                    //Console.WriteLine("myThread.IsAlive:   " + myThread.IsAlive);
+                    //Console.WriteLine("myThread.ThreadState:   " + myThread.ThreadState);
+                    //Console.WriteLine("当前线程是" + Thread.CurrentThread.Name);
+                    //Console.WriteLine(Thread.CurrentThread.Name + " IsAlive " + Thread.CurrentThread.IsAlive);
+                    //Console.WriteLine(Thread.CurrentThread.Name + " ThreadState " + Thread.CurrentThread.ThreadState);
+                    //myThread.Join(10);//主线程阻塞10毫秒
                 }
                 else
                 {
