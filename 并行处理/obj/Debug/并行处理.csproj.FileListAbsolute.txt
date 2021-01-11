@@ -5,3 +5,10 @@ E:\VS_WrokSpace\C#\线程\线程\并行处理\obj\Debug\并行处理.csprojAssem
 E:\VS_WrokSpace\C#\线程\线程\并行处理\obj\Debug\并行处理.csproj.CoreCompileInputs.cache
 E:\VS_WrokSpace\C#\线程\线程\并行处理\obj\Debug\并行处理.exe
 E:\VS_WrokSpace\C#\线程\线程\并行处理\obj\Debug\并行处理.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\bin\Debug\并行处理.exe.config
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\bin\Debug\并行处理.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\bin\Debug\并行处理.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\obj\Debug\并行处理.csprojAssemblyReference.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\obj\Debug\并行处理.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\obj\Debug\并行处理.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\并行处理\obj\Debug\并行处理.pdb

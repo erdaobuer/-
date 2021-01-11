@@ -18,8 +18,8 @@ namespace 并行处理
             }
 
             CalcTime(() => list.ForEach(item => Do(ref item)));//遍历,未并行处理
-            CalcTime(() => list.AsParallel().ForAll(item => Do(ref item)));//并行处理
-            CalcTime(() => Parallel.ForEach(list, item => Do(ref item)));//并行处理
+            //CalcTime(() => list.AsParallel().ForAll(item => Do(ref item)));//并行处理
+            //CalcTime(() => Parallel.ForEach(list, item => Do(ref item)));//并行处理
         }
 
         private static void Do(ref int i)

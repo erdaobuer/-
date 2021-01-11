@@ -4,3 +4,9 @@ E:\VS_WrokSpace\C#\线程\线程\线程安全加锁处理\bin\Debug\线程安全
 E:\VS_WrokSpace\C#\线程\线程\线程安全加锁处理\obj\Debug\线程安全加锁处理.csproj.CoreCompileInputs.cache
 E:\VS_WrokSpace\C#\线程\线程\线程安全加锁处理\obj\Debug\线程安全加锁处理.exe
 E:\VS_WrokSpace\C#\线程\线程\线程安全加锁处理\obj\Debug\线程安全加锁处理.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程安全加锁处理\bin\Debug\线程安全加锁处理.exe.config
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程安全加锁处理\bin\Debug\线程安全加锁处理.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程安全加锁处理\bin\Debug\线程安全加锁处理.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程安全加锁处理\obj\Debug\线程安全加锁处理.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程安全加锁处理\obj\Debug\线程安全加锁处理.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程安全加锁处理\obj\Debug\线程安全加锁处理.pdb

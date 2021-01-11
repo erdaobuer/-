@@ -4,3 +4,10 @@ E:\VS_WrokSpace\C#\线程\线程\线程\bin\Debug\线程.pdb
 E:\VS_WrokSpace\C#\线程\线程\线程\obj\Debug\线程.csproj.CoreCompileInputs.cache
 E:\VS_WrokSpace\C#\线程\线程\线程\obj\Debug\线程.exe
 E:\VS_WrokSpace\C#\线程\线程\线程\obj\Debug\线程.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\bin\Debug\线程.exe.config
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\bin\Debug\线程.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\bin\Debug\线程.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\obj\Debug\线程.csprojAssemblyReference.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\obj\Debug\线程.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\obj\Debug\线程.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\线程\obj\Debug\线程.pdb
