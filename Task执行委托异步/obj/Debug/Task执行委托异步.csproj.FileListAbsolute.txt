@@ -1,0 +1,7 @@
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\bin\Debug\Task执行委托异步.exe.config
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\bin\Debug\Task执行委托异步.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\bin\Debug\Task执行委托异步.pdb
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\obj\Debug\Task执行委托异步.csprojAssemblyReference.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\obj\Debug\Task执行委托异步.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\obj\Debug\Task执行委托异步.exe
+E:\VS_WrokSpace\C#\线程\ThreadStudy\Task执行委托异步\obj\Debug\Task执行委托异步.pdb
