@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托异步Winform", "委�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool线程池", "ThreadPool线程池\ThreadPool线程池.csproj", "{D8E79B94-8883-4025-B4CC-409C58B58EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task类", "Task类\Task类.csproj", "{1BF5ED92-F9D1-41E0-84B8-A58B0A59E655}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{D8E79B94-8883-4025-B4CC-409C58B58EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8E79B94-8883-4025-B4CC-409C58B58EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8E79B94-8883-4025-B4CC-409C58B58EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF5ED92-F9D1-41E0-84B8-A58B0A59E655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF5ED92-F9D1-41E0-84B8-A58B0A59E655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF5ED92-F9D1-41E0-84B8-A58B0A59E655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF5ED92-F9D1-41E0-84B8-A58B0A59E655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
