@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task类", "Task类\Task类.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "发送短信验证码", "发送短信验证码\发送短信验证码.csproj", "{6322CEB7-8534-4B35-B494-332080E39962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel练习", "Parallel练习\Parallel练习.csproj", "{C78A2D55-57C4-4EF5-A85F-B45E86505764}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6322CEB7-8534-4B35-B494-332080E39962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6322CEB7-8534-4B35-B494-332080E39962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6322CEB7-8534-4B35-B494-332080E39962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
