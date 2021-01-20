@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "发送短信验证码", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel练习", "Parallel练习\Parallel练习.csproj", "{C78A2D55-57C4-4EF5-A85F-B45E86505764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAndAwait", "AsyncAndAwait\AsyncAndAwait.csproj", "{FE3AB890-5B43-4EBF-AE6E-4238A541CAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "状态模式", "状态模式\状态模式.csproj", "{11ED9F2A-BCC3-4AA5-AACA-1B50AFF8C027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C78A2D55-57C4-4EF5-A85F-B45E86505764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3AB890-5B43-4EBF-AE6E-4238A541CAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3AB890-5B43-4EBF-AE6E-4238A541CAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3AB890-5B43-4EBF-AE6E-4238A541CAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3AB890-5B43-4EBF-AE6E-4238A541CAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ED9F2A-BCC3-4AA5-AACA-1B50AFF8C027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ED9F2A-BCC3-4AA5-AACA-1B50AFF8C027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ED9F2A-BCC3-4AA5-AACA-1B50AFF8C027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ED9F2A-BCC3-4AA5-AACA-1B50AFF8C027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
